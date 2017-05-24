@@ -1,0 +1,1 @@
+This project was a simple introduction to working with numerical integration.
